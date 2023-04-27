@@ -15,6 +15,9 @@ Plotting the spectogram of samples of different instruments from [the english Ph
 
 Fitting and experimenting with an Hidden Markov Model with Gaussian emissions to the data in the [dataset](https://archive.ics.uci.edu/ml/datasets/Appliances+energy+prediction), and confront with the resulting time series of performing Viterbi on a reasonably sized subsequence.
 
+### Midterm 3
+-  **Assignment 4:** Char-RNN to generate new headlines in Lercio style
 
-<!--### Midterm 3
-### Midterm 4-->
+Training a Char-RNN implementation on a dataset containing about 6500 headlines from the Lercio satirical newspage and experimenting with different configurations of it, varying the number of layers and different values of the softmax's temperature parameter T.
+
+<!--### Midterm 4-->
