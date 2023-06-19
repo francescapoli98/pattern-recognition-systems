@@ -16,8 +16,13 @@ Plotting the spectogram of samples of different instruments from [the english Ph
 Fitting and experimenting with an Hidden Markov Model with Gaussian emissions to the data in the [dataset](https://archive.ics.uci.edu/ml/datasets/Appliances+energy+prediction), and confront with the resulting time series of performing Viterbi on a reasonably sized subsequence.
 
 ### Midterm 3
--  **Assignment 4:** Char-RNN to generate new headlines in Lercio style
+-  **Assignment 5:** Fake News Classification
 
-Training a Char-RNN implementation on a dataset containing about 6500 headlines from the Lercio satirical newspage and experimenting with different configurations of it, varying the number of layers and different values of the softmax's temperature parameter T.
+Training a a binary classifier to recognize fake news from the [Kaggle dataset](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset).
 
-<!--### Midterm 4-->
+### Midterm 4
+
+Reading and summarizing the main findings of a chosen paper through a short presentation.
+
+- **Paper n°3**: 
+[_Bo Chang, Minmin Chen, Eldad Haber, Ed H. Chi, AntisymmetricRNN: A Dynamical System View on Recurrent Neural Networks, ICLR 2019_](https://doi.org/10.48550/arXiv.1902.09689)
