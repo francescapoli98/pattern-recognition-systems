@@ -2,7 +2,7 @@
 
 <img src="https://apre.it/wp-content/uploads/2021/01/logo_uni-pisa.png" width="200" />
 
-The couse is an introduction to the analysis and design of advanced machine learning and deep learning models for modern pattern recognition problems and discusses how to realize advanced applications exploiting computational intelligence techniques.
+The [ISPR couse](https://elearning.di.unipi.it/course/view.php?id=278) is an introduction to the analysis and design of advanced machine learning and deep learning models for modern pattern recognition problems and discusses how to realize advanced applications exploiting computational intelligence techniques.
 
 This repository stores the notebooks delivered for the midterms during the semester.
 ### Midterm 1
