@@ -18,7 +18,7 @@ Fitting and experimenting with an Hidden Markov Model with Gaussian emissions to
 ### Midterm 3
 -  **Assignment 5:** Fake News Classification
 
-Training a a binary classifier to recognize fake news from the [Kaggle dataset](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset).
+Training a a binary classifier to recognize fake news from a [Kaggle dataset](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset).
 
 ### Midterm 4
 
