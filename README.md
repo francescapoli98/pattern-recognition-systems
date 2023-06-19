@@ -25,4 +25,5 @@ Training a a binary classifier to recognize fake news from a [Kaggle dataset](ht
 Reading and summarizing the main findings of a chosen paper through a short presentation.
 
 - **Paper n°3**: 
-[_Bo Chang, Minmin Chen, Eldad Haber, Ed H. Chi, AntisymmetricRNN: A Dynamical System View on Recurrent Neural Networks, ICLR 2019_](https://doi.org/10.48550/arXiv.1902.09689)
+_Bo Chang, Minmin Chen, Eldad Haber, Ed H. Chi, AntisymmetricRNN: A Dynamical System View on Recurrent Neural Networks, ICLR 2019_ [arXiv:1902.09689
+](https://doi.org/10.48550/arXiv.1902.09689)
